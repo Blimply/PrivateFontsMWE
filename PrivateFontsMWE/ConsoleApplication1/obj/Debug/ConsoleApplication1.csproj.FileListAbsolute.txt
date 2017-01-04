@@ -1,0 +1,14 @@
+C:\Users\Sam\Documents\Visual Studio 2015\Projects\PrivateFontsMWE\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Sam\Documents\Visual Studio 2015\Projects\PrivateFontsMWE\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Sam\Documents\Visual Studio 2015\Projects\PrivateFontsMWE\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Sam\Documents\Visual Studio 2015\Projects\PrivateFontsMWE\ConsoleApplication1\bin\Debug\ReportLibrary2.dll
+C:\Users\Sam\Documents\Visual Studio 2015\Projects\PrivateFontsMWE\ConsoleApplication1\bin\Debug\Telerik.Reporting.dll
+C:\Users\Sam\Documents\Visual Studio 2015\Projects\PrivateFontsMWE\ConsoleApplication1\bin\Debug\Telerik.Reporting.Service.dll
+C:\Users\Sam\Documents\Visual Studio 2015\Projects\PrivateFontsMWE\ConsoleApplication1\bin\Debug\ReportLibrary2.pdb
+C:\Users\Sam\Documents\Visual Studio 2015\Projects\PrivateFontsMWE\ConsoleApplication1\bin\Debug\Telerik.Reporting.Service.pdb
+C:\Users\Sam\Documents\Visual Studio 2015\Projects\PrivateFontsMWE\ConsoleApplication1\bin\Debug\Telerik.Reporting.Service.xml
+C:\Users\Sam\Documents\Visual Studio 2015\Projects\PrivateFontsMWE\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Sam\Documents\Visual Studio 2015\Projects\PrivateFontsMWE\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Sam\Documents\Visual Studio 2015\Projects\PrivateFontsMWE\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Sam\documents\visual studio 2015\Projects\PrivateFontsMWE\ConsoleApplication1\bin\Debug\Telerik.Reporting.pdb
+C:\Users\Sam\documents\visual studio 2015\Projects\PrivateFontsMWE\ConsoleApplication1\bin\Debug\Telerik.Reporting.xml

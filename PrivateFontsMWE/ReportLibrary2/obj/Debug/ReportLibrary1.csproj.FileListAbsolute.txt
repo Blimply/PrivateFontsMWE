@@ -1,0 +1,12 @@
+c:\users\sam\documents\visual studio 2015\Projects\PrivateFontsMWE\ReportLibrary2\bin\Debug\ReportLibrary2.dll.config
+c:\users\sam\documents\visual studio 2015\Projects\PrivateFontsMWE\ReportLibrary2\bin\Debug\ReportLibrary2.dll
+c:\users\sam\documents\visual studio 2015\Projects\PrivateFontsMWE\ReportLibrary2\bin\Debug\ReportLibrary2.pdb
+c:\users\sam\documents\visual studio 2015\Projects\PrivateFontsMWE\ReportLibrary2\bin\Debug\Telerik.Reporting.dll
+c:\users\sam\documents\visual studio 2015\Projects\PrivateFontsMWE\ReportLibrary2\obj\Debug\ReportLibrary2.Report1.resources
+c:\users\sam\documents\visual studio 2015\Projects\PrivateFontsMWE\ReportLibrary2\obj\Debug\ReportLibrary1.csproj.GenerateResource.Cache
+c:\users\sam\documents\visual studio 2015\Projects\PrivateFontsMWE\ReportLibrary2\obj\Debug\ReportLibrary2.dll.licenses
+c:\users\sam\documents\visual studio 2015\Projects\PrivateFontsMWE\ReportLibrary2\obj\Debug\ReportLibrary2.dll
+c:\users\sam\documents\visual studio 2015\Projects\PrivateFontsMWE\ReportLibrary2\obj\Debug\ReportLibrary2.pdb
+C:\Users\Sam\documents\visual studio 2015\Projects\PrivateFontsMWE\ReportLibrary2\bin\Debug\Telerik.Reporting.pdb
+C:\Users\Sam\documents\visual studio 2015\Projects\PrivateFontsMWE\ReportLibrary2\bin\Debug\Telerik.Reporting.xml
+C:\Users\Sam\documents\visual studio 2015\Projects\PrivateFontsMWE\ReportLibrary2\obj\Debug\ReportLibrary1.csprojResolveAssemblyReference.cache
